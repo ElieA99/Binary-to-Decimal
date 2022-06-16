@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\PROJECTS\C# PROJECTS\C# Console App Binary To Decimal\Binary To Decimal\bin\Debug\net6.0\Binary To Decimal.exe
+C:\Users\USER\Desktop\PROJECTS\C# PROJECTS\C# Console App Binary To Decimal\Binary To Decimal\bin\Debug\net6.0\Binary To Decimal.deps.json
+C:\Users\USER\Desktop\PROJECTS\C# PROJECTS\C# Console App Binary To Decimal\Binary To Decimal\bin\Debug\net6.0\Binary To Decimal.runtimeconfig.json
+C:\Users\USER\Desktop\PROJECTS\C# PROJECTS\C# Console App Binary To Decimal\Binary To Decimal\bin\Debug\net6.0\Binary To Decimal.dll
+C:\Users\USER\Desktop\PROJECTS\C# PROJECTS\C# Console App Binary To Decimal\Binary To Decimal\bin\Debug\net6.0\Binary To Decimal.pdb
+C:\Users\USER\Desktop\PROJECTS\C# PROJECTS\C# Console App Binary To Decimal\Binary To Decimal\obj\Debug\net6.0\Binary To Decimal.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\PROJECTS\C# PROJECTS\C# Console App Binary To Decimal\Binary To Decimal\obj\Debug\net6.0\Binary To Decimal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\PROJECTS\C# PROJECTS\C# Console App Binary To Decimal\Binary To Decimal\obj\Debug\net6.0\Binary To Decimal.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\PROJECTS\C# PROJECTS\C# Console App Binary To Decimal\Binary To Decimal\obj\Debug\net6.0\Binary To Decimal.AssemblyInfo.cs
+C:\Users\USER\Desktop\PROJECTS\C# PROJECTS\C# Console App Binary To Decimal\Binary To Decimal\obj\Debug\net6.0\Binary To Decimal.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\PROJECTS\C# PROJECTS\C# Console App Binary To Decimal\Binary To Decimal\obj\Debug\net6.0\Binary To Decimal.dll
+C:\Users\USER\Desktop\PROJECTS\C# PROJECTS\C# Console App Binary To Decimal\Binary To Decimal\obj\Debug\net6.0\refint\Binary To Decimal.dll
+C:\Users\USER\Desktop\PROJECTS\C# PROJECTS\C# Console App Binary To Decimal\Binary To Decimal\obj\Debug\net6.0\Binary To Decimal.pdb
+C:\Users\USER\Desktop\PROJECTS\C# PROJECTS\C# Console App Binary To Decimal\Binary To Decimal\obj\Debug\net6.0\Binary To Decimal.genruntimeconfig.cache
+C:\Users\USER\Desktop\PROJECTS\C# PROJECTS\C# Console App Binary To Decimal\Binary To Decimal\obj\Debug\net6.0\ref\Binary To Decimal.dll

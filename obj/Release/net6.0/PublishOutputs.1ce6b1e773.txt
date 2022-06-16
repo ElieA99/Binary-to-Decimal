@@ -1,0 +1,5 @@
+C:\Users\USER\Desktop\PROJECTS\C# PROJECTS\C# Console App Binary To Decimal\Binary To Decimal\bin\Release\net6.0\publish\Binary To Decimal.exe
+C:\Users\USER\Desktop\PROJECTS\C# PROJECTS\C# Console App Binary To Decimal\Binary To Decimal\bin\Release\net6.0\publish\Binary To Decimal.dll
+C:\Users\USER\Desktop\PROJECTS\C# PROJECTS\C# Console App Binary To Decimal\Binary To Decimal\bin\Release\net6.0\publish\Binary To Decimal.deps.json
+C:\Users\USER\Desktop\PROJECTS\C# PROJECTS\C# Console App Binary To Decimal\Binary To Decimal\bin\Release\net6.0\publish\Binary To Decimal.runtimeconfig.json
+C:\Users\USER\Desktop\PROJECTS\C# PROJECTS\C# Console App Binary To Decimal\Binary To Decimal\bin\Release\net6.0\publish\Binary To Decimal.pdb
